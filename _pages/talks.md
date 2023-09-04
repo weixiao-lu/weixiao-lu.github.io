@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Fall 2023
-
+### Fall 2023 Learning Seminar
+ 
 | Speaker          | Date   |           Title/Notes                                          |
 | --------         | ------ | ------------------------------------------------------------ |
 | Danielle Wang    | Sep 11   |                                           |
