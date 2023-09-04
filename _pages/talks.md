@@ -7,11 +7,11 @@ author_profile: true
 
 ### Fall 2023
 
-| Speaker          | Date   |                                                              |
+| Speaker          | Date   |           Title/Notes                                          |
 | --------         | ------ | ------------------------------------------------------------ |
-| Danielle Wang    | Sep 11   | Description of the item in the list                          |
-| Murilo Corato Zanarella    | Sep 18   | Description of the item in the list                          |
-| Gefei Dang     | Sep 25   | Description of the item in the list                          |
+| Danielle Wang    | Sep 11   |                                           |
+| Murilo Corato Zanarella    | Sep 18   |                                |
+| Gefei Dang     | Sep 25   |                                       |
 
 {% if site.talkmap_link == true %}
 
