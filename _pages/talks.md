@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Fall 2023 Learning Seminar
+Time: Monday, 10 AM to 12 AM
+Place: 2-361
  
 | Speaker          | Date   |           Title/Notes                                          |
 | --------         | ------ | ------------------------------------------------------------ |
