@@ -9,7 +9,7 @@ author_profile: true
  
 | Speaker          | Date   |           Title/Notes                                          |
 | --------         | ------ | ------------------------------------------------------------ |
-| Danielle Wang    | Sep 11   |                                           |
+| Danielle Wang    | Sep 11   |  Twisted GGP conjecture for unramified quadratic extensions     |
 | Murilo Corato Zanarella    | Sep 18   |                                |
 | Gefei Dang     | Sep 25   |                                       |
 
