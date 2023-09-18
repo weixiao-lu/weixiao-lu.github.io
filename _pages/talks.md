@@ -13,7 +13,7 @@ Place: 2-361
 | Speaker          | Date   |           Title/Notes                                          |
 | --------         | ------ | ------------------------------------------------------------ |
 | Danielle Wang    | Sep 11   |  Twisted GGP conjecture for unramified quadratic extensions     |
-| Murilo Corato Zanarella    | Sep 18   |                                |
+| Murilo Corato Zanarella    | Sep 18   |     Explicit models of relative spherical functions and a conjecture of Hironaka           |
 | Gefei Dang     | Sep 25   |                                       |
 
 {% if site.talkmap_link == true %}
