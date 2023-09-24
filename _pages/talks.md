@@ -14,7 +14,7 @@ Place: 2-361
 | --------         | ------ | ------------------------------------------------------------ |
 | Danielle Wang    | Sep 11   |  Twisted GGP conjecture for unramified quadratic extensions     |
 | Murilo Corato Zanarella    | Sep 18   |     Explicit models of relative spherical functions and a conjecture of Hironaka           |
-| Gefei Dang     | Sep 25   |                                       |
+| Gefei Dang     | Sep 25   |  Local newforms for generic representations of unitary groups                                     |
 
 {% if site.talkmap_link == true %}
 
