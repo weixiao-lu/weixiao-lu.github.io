@@ -10,7 +10,7 @@ Time: Monday, 10 AM to Noon
 
 Place: 2-361
 
-[Syllabus](https://weixiao-lu.github.io/files/Fall_2023_seminar.pdf)
+[Syllabus](https://weixiao-lu.github.io/files/Fall_2023_Seminar.pdf)
  
 | Speaker          | Date   |           Title/Notes                                          |
 | --------         | ------ | ------------------------------------------------------------ |
