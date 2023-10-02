@@ -20,7 +20,7 @@ Place: 2-361
 |                | Oct. 16         |  Orthogonal Shimura varieties and moduli of K3 surfaces         |
 |                | Oct. 23      | Tate conjecture for hyperkahler varieties over number fieds  |
 |          | Oct. 30 | Integral models of orthogonal Shimura varieties |
-|          | Nov. 6  | Tate conjeuture of K3 surfaces over finite fields |
+|   Vijay Srinivasan    | Nov. 6  | Tate conjeuture for K3 surfaces of positive characteristic |
 |         | Nov. 13 | Jump of Picard rank I |
 |         | Nov. 20 | Jump of Picard rank II|
 |         | Nov. 27 | Average Colmez conjecture I|
