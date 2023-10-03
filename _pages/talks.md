@@ -19,7 +19,7 @@ Place: 2-361
 | Gefei Dang     | Sep. 25   |  Local newforms for generic representations of unitary groups                                     |
 |  Kenta Suzuki     | Oct. 16         |  Orthogonal Shimura varieties and moduli of K3 surfaces         |
 |                | Oct. 23      | Tate conjecture for hyperkähler varieties over number fields  |
-|          | Oct. 30 | Integral models of orthogonal Shimura varieties |
+|   Ryan Chen    | Oct. 30 | Integral models of orthogonal Shimura varieties |
 |   Vijay Srinivasan    | Nov. 6  | Tate conjeuture for K3 surfaces of positive characteristic |
 |         | Nov. 13 | Jump of Picard rank I |
 |         | Nov. 20 | Jump of Picard rank II|
