@@ -17,7 +17,7 @@ Place: 2-361
 | Danielle Wang    | Sep. 11   |  Twisted GGP conjecture for unramified quadratic extensions     |
 | Murilo Corato Zanarella    | Sep. 18   |     Explicit models of relative spherical functions and a conjecture of Hironaka           |
 | Gefei Dang     | Sep. 25   |  Local newforms for generic representations of unitary groups                                     |
-|  Kenta Suzuki     | Oct. 16         |  Orthogonal Shimura varieties and moduli of K3 surfaces         |
+|  Kenta Suzuki     | Oct. 16         |  [Orthogonal Shimura varieties and moduli of K3 surfaces](https://weixiao-lu.github.io/files/k3_surface_talk.pdf)         |
 |   Hao Peng         | Oct. 23      | Tate conjecture for hyperkähler varieties over number fields  |
 |   Ryan Chen    | Oct. 30 | Integral models of orthogonal Shimura varieties |
 |   Vijay Srinivasan    | Nov. 6  | Tate conjeuture for K3 surfaces of positive characteristic |
