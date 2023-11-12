@@ -20,9 +20,8 @@ Place: 2-361
 |  Kenta Suzuki     | Oct. 16         |  [Orthogonal Shimura varieties and moduli of K3 surfaces](https://weixiao-lu.github.io/files/k3_surface_talk.pdf)         |
 |   Hao Peng         | Oct. 23      | Tate conjecture for hyperkähler varieties over number fields  |
 |   Ryan Chen    | Oct. 30 | Integral models of orthogonal Shimura varieties |
-|   Vijay Srinivasan    | Nov. 6  | Tate conjeuture for K3 surfaces of positive characteristic |
-|         | Nov. 13 | Jump of Picard rank I |
-|         | Nov. 20 | Jump of Picard rank II|
+|   Ryan Chen/ Vijay Srinivasan    | Nov. 13  | Tate conjeuture for K3 surfaces of positive characteristic |
+|  Weixiao Lu       | Nov. 20 |  |
 |         | Nov. 27 | Average Colmez conjecture I|
 |         | Dec. 4  | Average Colmez conjecture II|
 
