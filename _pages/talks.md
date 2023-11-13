@@ -21,7 +21,7 @@ Place: 2-361
 |   Hao Peng         | Oct. 23      | Tate conjecture for hyperkähler varieties over number fields  |
 |   Ryan Chen    | Oct. 30 | [Integral models of orthogonal Shimura varieties](https://weixiao-lu.github.io/files/Integral_models_I)|
 |   Ryan Chen/ Vijay Srinivasan    | Nov. 13  | [Integral modles II](https://weixiao-lu.github.io/files/Integral_models_II)  Tate conjeuture for K3 surfaces of positive characteristic |
-|  Vijay Srinivasan/Weixiao Lu       | Nov. 20 | Tate conjeuture for K3 surfaces of positive characteristic II, p-adic uniformization of orthogonal Shimura varieties and moduli of K3 surfaces |
+|  Vijay Srinivasan/Weixiao Lu       | Nov. 20 | Tate conjecture II, p-adic uniformization of orthogonal Shimura varieties and moduli of K3 surfaces |
 |         | Nov. 27 | Average Colmez conjecture I|
 |         | Dec. 4  | Average Colmez conjecture II|
 
