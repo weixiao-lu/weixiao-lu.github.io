@@ -19,8 +19,8 @@ Place: 2-361
 | Gefei Dang     | Sep. 25   |  Local newforms for generic representations of unitary groups                                     |
 |  Kenta Suzuki     | Oct. 16         |  [Orthogonal Shimura varieties and moduli of K3 surfaces](https://weixiao-lu.github.io/files/k3_surface_talk.pdf)         |
 |   Hao Peng         | Oct. 23      | Tate conjecture for hyperkähler varieties over number fields  |
-|   Ryan Chen    | Oct. 30 | [Integral models of orthogonal Shimura varieties](https://weixiao-lu.github.io/files/Integral_models_I)|
-|   Ryan Chen/ Vijay Srinivasan    | Nov. 13  | [Integral modles II](https://weixiao-lu.github.io/files/Integral_models_II)  Tate conjeuture for K3 surfaces of positive characteristic |
+|   Ryan Chen    | Oct. 30 | [Integral models of orthogonal Shimura varieties](https://weixiao-lu.github.io/files/Integral_models_I.pdf)|
+|   Ryan Chen/ Vijay Srinivasan    | Nov. 13  | [Integral modles II](https://weixiao-lu.github.io/files/Integral_models_II.pdf)  Tate conjeuture for K3 surfaces of positive characteristic |
 |  Vijay Srinivasan/Weixiao Lu       | Nov. 20 | Tate conjecture II, p-adic uniformization|
 |          | Nov. 27 | Average Colmez conjecture I|
 |         | Dec. 4  | Average Colmez conjecture II|
