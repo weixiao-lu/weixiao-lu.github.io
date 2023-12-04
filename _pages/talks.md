@@ -24,7 +24,7 @@ Place: 2-361
 |  Vijay Srinivasan       | Nov. 20 |  Tate conjeuture for K3 surfaces of positive characteristic II|
 |  Weixiao Lu        | Nov. 27 | Tate conjeuture for K3 surfaces of positive characteristic III|
 |   Andreas Mihatsch      | Dec. 4  | Average Colmez conjecture|
-|                         | Dec. 11 |                          |
+|   Hao Peng                  | Dec. 11 |    Local Langlands for GL(n) over p-adic fields                |
 
 {% if site.talkmap_link == true %}
 
