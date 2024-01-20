@@ -6,6 +6,7 @@ author_profile: true
 ---
 ### Spring 2024 Learning Seminar
 Time: Tuesady, 1 PM to 3 PM
+
 Place: 2-255, unless otherwise stated
 
 
