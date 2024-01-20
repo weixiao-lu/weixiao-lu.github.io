@@ -4,6 +4,12 @@ title: "Talks and Seminars"
 permalink: /talks/
 author_profile: true
 ---
+### Spring 2024 Learning Seminar
+Time: Tuesady, 1 PM to 3 PM
+Place: 2-255, unless otherwise stated
+
+
+
 
 ### Fall 2023 Learning Seminar
 Time: Monday, 10 AM to Noon
@@ -27,9 +33,6 @@ Place: 2-361
 |   Hao Peng                  | Dec. 11 |    [Local Langlands for GL(n) over p-adic fields](https://weixiao-lu.github.io/files/LLC_for_GL(n).pdf)                |
 
 
-### Spring 2024 Learning Seminar
-Time: Tuesady, 1 PM to 3 PM
-Place: 2-255, unless otherwise stated
 
 
 {% if site.talkmap_link == true %}
