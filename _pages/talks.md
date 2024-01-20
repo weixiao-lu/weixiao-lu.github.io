@@ -26,6 +26,12 @@ Place: 2-361
 |   Andreas Mihatsch      | Dec. 4  | Average Colmez conjecture|
 |   Hao Peng                  | Dec. 11 |    [Local Langlands for GL(n) over p-adic fields](https://weixiao-lu.github.io/files/LLC_for_GL(n).pdf)                |
 
+
+### Spring 2024 Learning Seminar
+Time: Tuesady, 1 PM to 3 PM
+Place: 2-255, unless otherwise stated
+
+
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
