@@ -5,9 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 ### Spring 2024 Learning Seminar
-Time: Tuesday, 1 PM to 3 PM
+Time: Thursday, 1:30 PM to 3:30 PM
 
-Place: 2-255, unless otherwise stated
+Place: 2-255, unless otherwise noted
 
 
 
