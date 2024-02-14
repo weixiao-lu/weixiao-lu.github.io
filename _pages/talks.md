@@ -14,7 +14,7 @@ Place: 2-255, unless otherwise noted
 | Weixiao Lu     | Feb. 8   |  On the geometric side of Jacquet-Rallis RTF    |
 | Ryan Chen   | Feb. 15   |     Corank 1 arithmetic Siegel-Weil          |
 | Hao Peng     | Feb. 22   | Lambda-adic representation attached to modular forms    |
-|  Robin Zhang    | Feb. 29         |  Modular and p-adic formulations of the Harris–Venkatesh conjecture            |
+|  Robin Zhang    | Feb. 29         |  Modular and p-adic formulations of the Harris-Venkatesh conjecture            |
 
 
 ### Fall 2023 Learning Seminar
