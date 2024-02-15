@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+### Spring 2024 Learning Seminar
+Time: Thursday, 1:30 PM to 3:30 PM
+
+Place: 2-255, unless otherwise noted
+
 
 ### Fall 2023 Learning Seminar
 Time: Monday, 10 AM to Noon
