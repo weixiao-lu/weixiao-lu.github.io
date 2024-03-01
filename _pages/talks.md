@@ -10,6 +10,8 @@ Time: Thursday, 1:30 PM to 3:30 PM
 
 Place: 2-255, unless otherwise noted
 
+[Syllabus](https://weixiao-lu.github.io/files/Spring_2024_Seminar.pdf)
+
 | Speaker          | Date   |           Title/Notes                                          |
 | --------         | ------ | ------------------------------------------------------------ |
 | Weixiao Lu   | Feb. 8   |  On the geometric side of Jacquet-Rallis RTF     |
