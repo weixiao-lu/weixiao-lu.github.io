@@ -23,7 +23,7 @@ Place: 2-255, unless otherwise noted
 |               | Apr. 11     | Geometric Satake I          |
 |               | Apr. 18     | Geometric Satake II         |
 |  Vijay Srinivasan  | Apr. 25     | ADLV I               |
-| Zeyu Wang        | Apr. 32      | ADLV II             |
+| Zeyu Wang        | May. 2      | ADLV II             |
 
 
 ### Fall 2023 Learning Seminar
