@@ -18,6 +18,12 @@ Place: 2-255, unless otherwise noted
 | Ryan Chen    | Feb 15   |    Corank 1 arithmetic Siegel-Weil         |
 | Hao Peng     | Feb. 22   |  Lambda-adic representation attached to modular forms                                |
 | Robin Zhang     | Feb. 29        |  Modular and p-adic formulation of Harris-Venkatesh conjecture     |
+| Ryan Chen     | Mar. 21    |  Statement of the main result  |
+|               | Apr. 4     | Examples of main result       |
+|               | Apr. 11     | Geometric Satake I          |
+|               | Apr. 18     | Geometric Satake II         |
+|  Vijay Srinivasan  | Apr. 25     | ADLV I               |
+| Zeyu Wang        | Apr. 32      | ADLV II             |
 
 
 ### Fall 2023 Learning Seminar
