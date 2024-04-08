@@ -20,8 +20,7 @@ Place: 2-255, unless otherwise noted
 | Robin Zhang     | Feb. 29        |  Modular and p-adic formulation of Harris-Venkatesh conjecture     |
 | Ryan Chen     | Mar. 21    |  Statement of the main result  |
 |  Hao Peng      | Apr. 4     | Examples of main result       |
-|  Weixiao Lu     | Apr. 11     | Geometric Satake I          |
-|               | Apr. 18     | Geometric Satake II         |
+|  Weixiao Lu     | Apr. 18     | Geometric Satake          |
 |  Vijay Srinivasan  | Apr. 25     | ADLV I               |
 | Zeyu Wang        | May. 2      | ADLV II             |
 
