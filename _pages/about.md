@@ -21,6 +21,10 @@ Hello! This is Weixiao Lu, a fourth year Ph.D. student at [MIT](https://math.mit
 
 <!-- - Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. *Explainable knowledge graph-based recommendation via deep reinforcement learning[J].* arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506) -->
 
+## Research
+
+(joint with Paul Boisseau and Hang Xue)[The global Gan-Gross-Prasad conjecture for Fourier-Jacobi periods on unitary groups](https://arxiv.org/abs/2404.07342), preprint 
+
 ## Notes
 
 - [GGP conjectures for unitary groups](https://weixiao-lu.github.io/files/GGP_introduction.pdf), a talk given at MSRI on introduction to GGP conjectures for unitary group, including an ongoing joint work with Hang Xue and Paul Boisseau on Fourier-Jacobi periods.
