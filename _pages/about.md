@@ -23,7 +23,7 @@ Hello! This is Weixiao Lu, a fourth year Ph.D. student at [MIT](https://math.mit
 
 ## Research
 
-(joint with Paul Boisseau and Hang Xue)[The global Gan-Gross-Prasad conjecture for Fourier-Jacobi periods on unitary groups](https://arxiv.org/abs/2404.07342), preprint 
+(joint with Paul Boisseau and Hang Xue) [The global Gan-Gross-Prasad conjecture for Fourier-Jacobi periods on unitary groups](https://arxiv.org/abs/2404.07342), preprint 
 
 ## Notes
 
