@@ -27,7 +27,7 @@ Hello! This is Weixiao Lu, a fourth year Ph.D. student at [MIT](https://math.mit
 
 ## Notes
 
-- [GGP conjectures for unitary groups](https://weixiao-lu.github.io/files/GGP_introduction.pdf), a talk given at MSRI on introduction to GGP conjectures for unitary group, including an ongoing joint work with Hang Xue and Paul Boisseau on Fourier-Jacobi periods.
+- [GGP conjectures for unitary groups](https://weixiao-lu.github.io/files/GGP_introduction.pdf), a talk given at MSRI on introduction to GGP conjectures for unitary group, including a joint work with Hang Xue and Paul Boisseau on Fourier-Jacobi periods.
 
 - [Kolyvagin Theorem](https://weixiao-lu.github.io/files/Kolyvagin_Theorem.pdf), a talk on Kolyvagin's theorem on elliptic curves.
 
