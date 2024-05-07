@@ -23,7 +23,7 @@ Place: 2-255, unless otherwise noted
 |  Weixiao Lu     | Apr. 18     | Geometric Satake          |
 |  Vijay Srinivasan  | Apr. 25     | ADLV I               |
 | Zeyu Wang        | May. 2      | ADLV II             |
-| Mikayel Mkrtchyan | May. 9     |                     |
+| Mikayel Mkrtchyan | May. 9     | Moduli of local Shtukas and cohomological correspondences                    |
 
 
 ### Fall 2023 Learning Seminar
