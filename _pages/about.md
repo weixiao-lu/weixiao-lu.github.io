@@ -27,6 +27,8 @@ Hello! This is Weixiao Lu, a fifth year Ph.D. student at [MIT](https://math.mit.
 
 - [On the geometric side of the Jacquet-Rallis RTF](https://arxiv.org/abs/2407.14952), preprint
 
+- (joint with Ryan Chen and Wei Zhang) Faltings heights and the subleading terms of adjoint L-functions, in progress
+
 ## Notes
 
 - [GGP conjectures for unitary groups](https://weixiao-lu.github.io/files/GGP_introduction.pdf), a talk given at MSRI on introduction to GGP conjectures for unitary group, including a joint work with Hang Xue and Paul Boisseau on Fourier-Jacobi periods.
