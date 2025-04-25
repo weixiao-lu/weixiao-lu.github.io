@@ -26,7 +26,7 @@ Hello! This is Weixiao Lu, a fifth year Ph.D. student at [MIT](https://math.mit.
 
 - (joint with Ryan Chen and Wei Zhang) Faltings heights and the subleading terms of adjoint L-functions, in preparation
 
-- (joint with Guodong Xi, with an appendix by Zeyu Wang)[On the relative Langlands duality for Sp_2n\GL_2n+1](https://weixiao-lu.github.io/files/On_the_reltaive_Langlands_duality_for_Sp2nGL_2n+1.pdf)
+- (joint with Guodong Xi, with an appendix by Zeyu Wang) [On the relative Langlands duality for Sp_2n\GL_2n+1](https://weixiao-lu.github.io/files/On_the_reltaive_Langlands_duality_for_Sp2nGL_2n+1.pdf)
 
 - [On the geometric side of the Jacquet-Rallis RTF](https://arxiv.org/abs/2407.14952), preprint
 
