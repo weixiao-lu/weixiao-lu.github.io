@@ -30,7 +30,9 @@ Hello! This is Weixiao Lu, a fifth year Ph.D. student at [MIT](https://math.mit.
 
 - [On the geometric side of the Jacquet-Rallis RTF](https://arxiv.org/abs/2407.14952), preprint
 
-- (joint with Paul Boisseau and Hang Xue) [The global Gan-Gross-Prasad conjecture for Fourier-Jacobi periods on unitary groups](https://arxiv.org/abs/2404.07342), preprint 
+- (joint with Paul Boisseau and Hang Xue) [The global Gan-Gross-Prasad conjecture for Fourier-Jacobi periods on unitary groups](https://arxiv.org/abs/2404.07342), preprint
+
+- [A relative trace formula approach to the stable trace formula on the unitary group](https://dspace.mit.edu/handle/1721.1/159956), PhD Thesis
 
 ## Notes
 
