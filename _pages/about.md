@@ -51,7 +51,6 @@ Hello! This is Weixiao Lu, a postdoc at [I2M](https://www.i2m.univ-amu.fr/). I o
 
 <!-- [October 2022] I have successfully passed the Qualifying Exam! -->
 
-[Accessibility](https://accessibility.mit.edu/)
 
 
 
