@@ -18,10 +18,6 @@ Email address: (first_name).(LAST_NAME)@univ-amu.fr
 * Automorphic Representation Theory
 * Arithmetic Properties of L-function.
 
-<!-- ## Publications -->
-
-
-<!-- - Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. *Explainable knowledge graph-based recommendation via deep reinforcement learning[J].* arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506) -->
 
 ## Research
 
@@ -36,6 +32,7 @@ Email address: (first_name).(LAST_NAME)@univ-amu.fr
 
 - [A relative trace formula approach to the stable trace formula on the unitary group](https://dspace.mit.edu/handle/1721.1/159956), PhD Thesis
 
+<!--
 ## Notes
 
 - [GGP conjectures for unitary groups](https://weixiao-lu.github.io/files/GGP_introduction.pdf), a talk given at MSRI on introduction to GGP conjectures for unitary group, including a joint work with Hang Xue and Paul Boisseau on Fourier-Jacobi periods.
@@ -46,7 +43,7 @@ Email address: (first_name).(LAST_NAME)@univ-amu.fr
 
 - [Algebraization of Complex Torus](https://weixiao-lu.github.io/files/Algebraization_Complex_Torus.pdf)
 
-- [Examples of Brauer Groups](https://weixiao-lu.github.io/files/Brauer_Group_Computation.pdf) (In Chinese)
+- [Examples of Brauer Groups](https://weixiao-lu.github.io/files/Brauer_Group_Computation.pdf) (In Chinese) -->
 
 
 <!-- ## What's New -->
