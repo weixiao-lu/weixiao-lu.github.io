@@ -11,6 +11,8 @@ redirect_from:
 
 Hello! This is Weixiao Lu, a postdoc at [I2M](https://www.i2m.univ-amu.fr/). I obtained my Ph.D. degree at [MIT](https://math.mit.edu/) in 2025, advised by [Prof. Wei Zhang](https://math.mit.edu/~wz2113/). Before that, I obtained my Bachelor’s degree from Peking University in Beijing, China.
 
+Email address: (first_name).(LAST_NAME)@univ-amu.fr
+
 ## Research Interest
 
 * Automorphic Representation Theory
