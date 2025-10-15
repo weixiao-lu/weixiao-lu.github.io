@@ -24,7 +24,7 @@ Email address: (first_name).(LAST_NAME)@univ-amu.fr
 
 - (joint with Ryan Chen and Wei Zhang) Faltings heights and the subleading terms of adjoint L-functions, in preparation
 
-- (joint with Guodong Xi) [Periods detecting Eisenstein series and sums of $L$-values I](https://weixiao-lu.github.io/files/Periods_sum_L.pdf)
+- (joint with Guodong Xi) [Periods detecting Eisenstein series and sums of $L$-values I](https://arxiv.org/abs/2510.12446)
 
 - (joint with Danielle Wang and Zhiyu Zhang) [Central values of Asai L-functions and twisted Gan--Gross--Prasad conjecture: relative trace formulas](https://arxiv.org/abs/2509.16356)
 
