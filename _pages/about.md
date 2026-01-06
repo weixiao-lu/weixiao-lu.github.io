@@ -32,7 +32,11 @@ Email address: (first_name).(LAST_NAME)@univ-amu.fr
 
 - [On the geometric side of the Jacquet-Rallis RTF](https://arxiv.org/abs/2407.14952), preprint
 
-- (joint with Paul Boisseau and Hang Xue) [The global Gan-Gross-Prasad conjecture for Fourier-Jacobi periods on unitary groups](https://arxiv.org/abs/2404.07342), preprint
+- (joint with Paul Boisseau and Hang Xue) [The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups I: Coarse expansions of the relative trace formulae](https://arxiv.org/abs/2404.07342), preprint
+
+- (joint with Paul Boisseau and Hang Xue) [The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups II: Comparison of the relative trace formulae](https://arxiv.org/abs/2601.01727), preprint
+
+- (joint with Paul Boisseau and Hang Xue) [The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups III: Proof of the main theorems](https://arxiv.org/abs/2601.01738), preprint
 
 - [A relative trace formula approach to the stable trace formula on the unitary group](https://dspace.mit.edu/handle/1721.1/159956), PhD Thesis
 
