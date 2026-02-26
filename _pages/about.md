@@ -30,7 +30,7 @@ Email address: (first_name).(LAST_NAME)@univ-amu.fr
 
 - (joint with Guodong Xi, with an appendix by Zeyu Wang) [On the relative Langlands duality for Sp_2n\GL_2n+1](https://arxiv.org/abs/2504.18774)
 
-- [On the geometric side of the Jacquet-Rallis RTF](https://arxiv.org/abs/2407.14952), preprint
+- [On the geometric side of the Jacquet-Rallis RTF](https://arxiv.org/abs/2407.14952), preprint. [An update](https://weixiao-lu.github.io/files/On_the_geometric_side_of_Jacquet_Rallis_RTF_2602.pdf).
 
 - (joint with Paul Boisseau and Hang Xue) [The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups I: Coarse expansions of the relative trace formulae](https://arxiv.org/abs/2404.07342), preprint
 
